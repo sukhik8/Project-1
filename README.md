@@ -1,5 +1,5 @@
 # Project-1
-Covid Analysis
+Covid-19 Analysis
 
 Project Description: Focus on Covid datasets in relation to the United States and globally.
 
