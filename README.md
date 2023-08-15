@@ -1,7 +1,7 @@
 # Project-1
 Covid Analysis
 
-Project Description: We will focus on Covid datasets in relation to the United States.
+Project Description: Focus on Covid datasets in relation to the United States.
 
 Research Questions to Answer:
 1. What is the efficiency of being full vaccinated or partially vaccinated?
